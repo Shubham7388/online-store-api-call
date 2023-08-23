@@ -1,0 +1,14 @@
+table{
+    background-color: rgb(187, 150, 150);
+}
+table>tr>td{
+    background-color: rgb(26, 25, 24);
+    color: white;
+    max-width: 400px;
+    overflow-x: auto;
+}
+
+img{
+    transform: rotate(20 degree);
+
+}
